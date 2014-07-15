@@ -1,4 +1,4 @@
 scala-funprog
 =============
 
-#My submissions for the Coursera Functional Programming in Scala
+My submissions for the Coursera Functional Programming in Scala
